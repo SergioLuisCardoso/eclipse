@@ -1,5 +1,5 @@
-# eclipse
-Integração da IDE Eclipse com o GitHub.
+# Eclipse
+Eclipse IDE Integration with GitHub.
 
 
 ## 📝 License
