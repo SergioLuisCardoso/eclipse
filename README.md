@@ -2,7 +2,7 @@
 Eclipse IDE Integration with GitHub.
 
 <br/>
-<p align="center">
+<p align="left">
     <a href="LICENSE" target="_blank">
         <img src="https://img.shields.io/github/license/sulu/sulu.svg" alt="GitHub license">
     </a>
@@ -24,7 +24,7 @@ Eclipse IDE Integration with GitHub.
 </p>
 <br/>
 
-**Aplicações e Dados**
+**applications and data**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
