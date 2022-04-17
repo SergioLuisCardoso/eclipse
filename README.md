@@ -24,7 +24,7 @@ Eclipse IDE Integration with GitHub.
 </p>
 <br/>
 
-**applications and data**
+**Applications and data**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -38,6 +38,6 @@ Eclipse IDE Integration with GitHub.
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
-## 📝 License
+### 📝 License
 
 This project is under license. See the [LICENSE](LICENSE.md) file for more details.
