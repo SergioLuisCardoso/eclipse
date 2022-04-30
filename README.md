@@ -24,7 +24,9 @@ Eclipse IDE Integration with GitHub.
 </p>
 <br/>
 
+
 **Applications and data:**
+ 
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -36,6 +38,7 @@ Eclipse IDE Integration with GitHub.
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
 
 
 **Development Tools**
@@ -45,10 +48,15 @@ Eclipse IDE Integration with GitHub.
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+ 
 
-### 📝 License
+## 📝 License
 
 This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
 
 
 <a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
