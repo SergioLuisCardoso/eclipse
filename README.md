@@ -58,5 +58,11 @@ This project is under license. See the [LICENSE](LICENSE.md) file for more detai
 
 For support, email fake@fake.com or join our Slack channel.
 
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
 
 <a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
