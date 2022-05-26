@@ -65,4 +65,4 @@ For support, email fake@fake.com or join our Slack channel.
 **Server:** Node, Express
 
 
-<a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
+
