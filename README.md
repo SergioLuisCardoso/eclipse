@@ -54,6 +54,12 @@ Eclipse IDE Integration with GitHub.
 
 This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
+
+## Appendix
+
+Any additional information goes here
+
+
 ## Support
 
 For support, email fake@fake.com or join our Slack channel.
