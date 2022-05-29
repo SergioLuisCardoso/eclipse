@@ -69,6 +69,11 @@ For support, email fake@fake.com or join our Slack channel.
 **Client:** React, Redux, TailwindCSS
 
 **Server:** Node, Express
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+
 
 
 
