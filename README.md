@@ -64,6 +64,10 @@ Any additional information goes here
 
 For support, email fake@fake.com or join our Slack channel.
 
+## Contributing
+
+Contributions are always welcome!
+
 ## Tech Stack
 
 **Client:** React, Redux, TailwindCSS
